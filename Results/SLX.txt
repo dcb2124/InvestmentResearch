@@ -1,0 +1,4 @@
+SLX value
+P/E: 43.94
+DCF: 76.07
+ROE: 31.28
